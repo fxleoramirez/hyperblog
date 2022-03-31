@@ -17,3 +17,5 @@ Voy a comenzar a aplicar lo aprendido con el comando Stash para poder
 traerme commits puntuales de una rama en especifico para otra.
 
 Esta creado por el increible super YO muahahaha
+
+Ah por cierto, esta disponbile en todas las librerias.
